@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(231, 27, 13);
+    width: 400px;
+    margin: auto;
+    padding-top: 50px;
+    color: rgb(0, 0, 0);
+}
+
+div {
+    padding-bottom: 30px;
+}
+
+#divGeral {
+    background-color: rgb(216, 52, 52);
+    border-radius: 15px;
+    padding:20px;
+}
