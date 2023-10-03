@@ -73,5 +73,5 @@ op = Number(prompt(`Entre com uma das opções abaixo: \n
     }
        
 
-    }while (op != 5)
+    }while (op != 5 )
 }

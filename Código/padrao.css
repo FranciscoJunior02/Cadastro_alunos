@@ -1,17 +1,29 @@
 body{
-    background-color: rgb(231, 27, 13);
+    background-color: rgb(127, 213, 247);
     width: 400px;
     margin: auto;
     padding-top: 50px;
-    color: rgb(0, 0, 0);
+    color: rgb(2, 2, 2);
+    text-align: center;
+    
 }
 
 div {
     padding-bottom: 30px;
 }
 
-#divGeral {
-    background-color: rgb(216, 52, 52);
+.divGeral {
+    background-color: rgb(172, 170, 170);
     border-radius: 15px;
-    padding:20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.divGeral button{
+    background-color: rgb(18, 121, 218);
+    border-bottom: 50px;
+    border-radius: 5px;
+    height: 22px;
+    margin-top: 20px;
+       
 }
